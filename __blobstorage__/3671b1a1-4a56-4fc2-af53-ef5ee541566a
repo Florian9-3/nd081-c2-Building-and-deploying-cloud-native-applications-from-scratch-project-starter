@@ -1,0 +1,43 @@
+{
+  "masterKey": {
+    "name": "master",
+    "value": "hY6WYO58q6QDhWzakJgpIzd8/w2BDbIjht4lYxMItmJlTJgtPRONcg==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "N4/dP57zU9bmEPYnhTucXbVe8soVD0XCgwbUgWn1CnJMdWOmAwmkmw==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000D9C6FEF3",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "hY6WYO58q6QDhWzakJgpIzd8/w2BDbIjht4lYxMItmJlTJgtPRONcg==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "N4/dP57zU9bmEPYnhTucXbVe8soVD0XCgwbUgWn1CnJMdWOmAwmkmw==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "eventgrid_extension",
+      "value": "mbyEXaPyeehfXcH7oai3RkHQOg8auK6XS1EVuIWH666sWbyz3LI62w==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000D9C6FEF3",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}
